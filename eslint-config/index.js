@@ -24,7 +24,7 @@ module.exports = {
     'react-hooks/rules-of-hooks': 'error',
     'react-hooks/exhaustive-deps': 'warn',
     '@typescript-eslint/no-unused-vars': 'error',
-    '@typescript-eslint/interface-name-prefix': ['error', { prefixWithI: 'always' }],
+    //'@typescript-eslint/interface-name-prefix': ['error', { prefixWithI: 'always' }],
     '@typescript-eslint/explicit-function-return-type': ['warn', { allowExpressions: true }],
     '@typescript-eslint/camelcase': 'off',
     // Place to specify ESLint rules. Can be used to overwrite rules specified from the extended configs
