@@ -1,0 +1,13 @@
+{
+  "name": "@mediafellows/mfx-ui-dependencies",
+  "version": "0.0.1",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "url" : "git://github.com/mediafellows/mfx-ui-dependencies.git"
+  },
+  "description": "npm dependencies for mediafellows frontend projects",
+  "main": "index.js",
+  "license": "MIT"
+}
