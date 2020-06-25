@@ -1,3 +1,3 @@
-module.exporsts = function () {
-  console.log('Hello package!');
+module.exports = function () {
+  console.log('Hello mfx dependencies!');
 };
