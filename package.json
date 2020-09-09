@@ -1,6 +1,6 @@
 {
   "name": "@mediafellows/mfx-ui-dependencies",
-  "version": "0.0.21",
+  "version": "0.0.23",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
@@ -60,7 +60,6 @@
     "jest": "^26.0.1",
     "lodash": "^4.17.15",
     "mini-css-extract-plugin": "^0.9.0",
-    "mobx-react-lite": "^2.0.6",
     "mobx-react-router": "^4.1.0",
     "moment": "^2.27.0",
     "moment-duration-format": "^2.3.2",
@@ -85,6 +84,15 @@
     "typescript": "^3.8.3",
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.11",
-    "webpack-dev-server": "^3.10.3"
+    "webpack-dev-server": "^3.10.3",
+    "mobx-react": "6.3.0",
+    "classnames": "^2.2.5",
+    "colors": "^1.1.2",
+    "cookies-js": "^1.2.3",
+    "nanoid": "^2.0.0",
+    "react-ga": "^2.5.3",
+    "react-google-maps": "^9.4.5",
+    "recompose": "^0.26.0",
+    "uri-templates": "^0.2.0"
   }
 }
