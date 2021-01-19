@@ -22,8 +22,8 @@ module.exports = {
   rules: {
     'react/prop-types': 'off',
     'react-hooks/rules-of-hooks': 'error',
-    'react-hooks/exhaustive-deps': 'warn',
-    'react/no-unescaped-entities': 'error',
+    'react-hooks/exhaustive-deps': 'error',
+    'react/no-unescaped-entities': 'warn',
     '@typescript-eslint/no-unused-vars': 'error',
     //'@typescript-eslint/interface-name-prefix': ['error', { prefixWithI: 'always' }],
     '@typescript-eslint/explicit-function-return-type': ['warn', { allowExpressions: true }],
