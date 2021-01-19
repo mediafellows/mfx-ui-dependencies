@@ -23,7 +23,7 @@ module.exports = {
     'react/prop-types': 'off',
     'react-hooks/rules-of-hooks': 'error',
     'react-hooks/exhaustive-deps': 'warn',
-    'react/no-unescaped-entities': 'warn',
+    'react/no-unescaped-entities': 'error',
     '@typescript-eslint/no-unused-vars': 'error',
     //'@typescript-eslint/interface-name-prefix': ['error', { prefixWithI: 'always' }],
     '@typescript-eslint/explicit-function-return-type': ['warn', { allowExpressions: true }],
