@@ -13,7 +13,11 @@ module.exports = {
     },
   },
   plugins: ["react-hooks"],
-  extends: ["plugin:react/recommended", "plugin:prettier/recommended"],
+  extends: [
+    "plugin:react/recommended",
+    "plugin:@typescript-eslint/recommended",
+    "plugin:prettier/recommended",
+  ],
   rules: {
     "react/prop-types": "off",
     "react-hooks/rules-of-hooks": "error",
