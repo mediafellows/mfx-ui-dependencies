@@ -14,6 +14,17 @@ Major changes
 - date-fns added to shared dependencies (to completely replace moment.js in future)
 
 Used in:
-
 mfx-ui-gcui, mfx-ui-itvstudios, mfx-ui-eone, mfx-ui-lgt, react-video-conference,
 mfx-ui-boilerplate
+
+
+# Version 0.2.X
+
+Extending minor-1.
+New version must be maintained and released form branch `minor-2`
+
+Major changes
+- Webpack 5
+- React 18
+
+Used in: mfx-ui-admin3
