@@ -27,4 +27,4 @@ Major changes
 - Webpack 5
 - React 18
 
-Used in: mfx-ui-admin3
+Used in: mfx-ui-admin3, mfx-ui-orf
