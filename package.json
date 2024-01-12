@@ -1,6 +1,6 @@
 {
   "name": "@mediafellows/mfx-ui-dependencies",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
@@ -39,8 +39,8 @@
     "@types/react-dom": "^18.0.9",
     "@types/webpack": "5.28.0",
     "@types/webpack-dev-server": "^3.11.0",
-    "@typescript-eslint/eslint-plugin": "^5.4.0",
-    "@typescript-eslint/parser": "^5.4.0",
+    "@typescript-eslint/eslint-plugin": "^5.61.0",
+    "@typescript-eslint/parser": "^5.61.0",
     "autoprefixer": "^9.7.6",
     "babel-loader": "^8.1.0",
     "bootstrap": "^5.1.3",
