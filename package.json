@@ -1,6 +1,6 @@
 {
   "name": "@mediafellows/mfx-ui-dependencies",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
@@ -60,7 +60,7 @@
     "figlet": "^1.4.0",
     "file-loader": "^6.0.0",
     "html-webpack-plugin": "^5.5.0",
-    "inquirer": "^7.3.0",
+    "@inquirer/prompts": "^7.3.0",
     "jest": "^27.3.1",
     "lodash": "^4.17.15",
     "mini-css-extract-plugin": "^2.3.0",
@@ -84,7 +84,6 @@
     "rollbar-sourcemap-webpack-plugin": "^2.11.1",
     "sass-loader": "^12.1.0",
     "sass-resources-loader": "^2.2.5",
-    "slack-node": "^0.1.8",
     "style-loader": "^3.2.1",
     "stylelint": "^13.13.1",
     "stylelint-config-prettier": "^9.0.3",
