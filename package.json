@@ -1,6 +1,6 @@
 {
   "name": "@mediafellows/mfx-ui-dependencies",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
@@ -72,6 +72,7 @@
     "nanoid": "^2.0.0",
     "postcss": "^8.4.35",
     "postcss-loader": "^6.1.1",
+    "postcss-scss": "^4.0.9",
     "prettier": "^2.3.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -86,9 +87,9 @@
     "sass-loader": "^12.1.0",
     "sass-resources-loader": "^2.2.5",
     "style-loader": "^3.2.1",
-    "stylelint": "^13.13.1",
-    "stylelint-config-prettier": "^9.0.3",
-    "stylelint-prettier": "^1.2.0",
+    "stylelint": "^14.16.1",
+    "stylelint-config-prettier": "^9.0.5",
+    "stylelint-prettier": "^2.0.0",
     "ts-jest": "^27.0.7",
     "ts-node": "^10.4.0",
     "typescript": "5.0.3",
